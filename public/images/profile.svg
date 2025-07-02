@@ -1,0 +1,15 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo circular -->
+  <circle cx="200" cy="200" r="200" fill="#6C63FF" opacity="0.1"/>
+  
+  <!-- Cabeza -->
+  <circle cx="200" cy="150" r="90" fill="#6C63FF" opacity="0.8"/>
+  
+  <!-- Cuerpo -->
+  <path d="M320 350C320 294.772 265.228 250 200 250C134.772 250 80 294.772 80 350" stroke="#6C63FF" stroke-width="40" stroke-linecap="round"/>
+  
+  <!-- Detalles faciales (simplificados para SVG) -->
+  <circle cx="170" cy="140" r="10" fill="white"/>
+  <circle cx="230" cy="140" r="10" fill="white"/>
+  <path d="M180 180C180 180 190 190 200 190C210 190 220 180 220 180" stroke="white" stroke-width="5" stroke-linecap="round"/>
+</svg>
