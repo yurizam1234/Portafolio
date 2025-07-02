@@ -1,0 +1,56 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo -->
+  <rect width="800" height="600" fill="#F9FAFB"/>
+  
+  <!-- Forma decorativa -->
+  <path d="M0 0 L800 0 L800 200 Q400 350 0 200 L0 0Z" fill="#6C63FF" fill-opacity="0.05"/>
+  <path d="M0 600 L800 600 L800 400 Q400 250 0 400 L0 600Z" fill="#6C63FF" fill-opacity="0.05"/>
+  
+  <!-- Círculos decorativos -->
+  <circle cx="100" cy="100" r="50" fill="#6C63FF" fill-opacity="0.1"/>
+  <circle cx="700" cy="500" r="70" fill="#6C63FF" fill-opacity="0.1"/>
+  <circle cx="200" cy="500" r="30" fill="#6C63FF" fill-opacity="0.1"/>
+  <circle cx="600" cy="150" r="40" fill="#6C63FF" fill-opacity="0.1"/>
+  
+  <!-- Ilustración de persona -->
+  <!-- Cabeza -->
+  <circle cx="400" cy="200" r="80" fill="#6C63FF" opacity="0.8"/>
+  
+  <!-- Cuerpo -->
+  <path d="M480 400C480 344.772 444.183 300 400 300C355.817 300 320 344.772 320 400" stroke="#6C63FF" stroke-width="30" stroke-linecap="round"/>
+  
+  <!-- Detalles faciales -->
+  <circle cx="370" cy="180" r="10" fill="white"/>
+  <circle cx="430" cy="180" r="10" fill="white"/>
+  <path d="M380 220C380 220 390 230 400 230C410 230 420 220 420 220" stroke="white" stroke-width="5" stroke-linecap="round"/>
+  
+  <!-- Elementos de educación -->
+  <rect x="150" y="450" width="120" height="80" rx="10" fill="white" stroke="#6C63FF" stroke-width="2"/>
+  <path d="M180 470 L210 470 L210 490 L180 490 L180 470Z" fill="#6C63FF" fill-opacity="0.2"/>
+  <path d="M220 470 L240 470 L240 475 L220 475 L220 470Z" fill="#6C63FF"/>
+  <path d="M220 480 L240 480 L240 485 L220 485 L220 480Z" fill="#6C63FF"/>
+  <path d="M180 500 L240 500 L240 505 L180 505 L180 500Z" fill="#6C63FF" fill-opacity="0.5"/>
+  <path d="M180 510 L220 510 L220 515 L180 515 L180 510Z" fill="#6C63FF" fill-opacity="0.5"/>
+  
+  <!-- Elementos de trabajo -->
+  <rect x="530" y="450" width="120" height="80" rx="10" fill="white" stroke="#6C63FF" stroke-width="2"/>
+  <rect x="550" y="470" width="80" height="40" rx="5" fill="#6C63FF" fill-opacity="0.2"/>
+  <path d="M560 480 L580 490 L600 470" stroke="#6C63FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M550 520 L580 520 L580 525 L550 525 L550 520Z" fill="#6C63FF" fill-opacity="0.5"/>
+  <path d="M590 520 L620 520 L620 525 L590 525 L590 520Z" fill="#6C63FF" fill-opacity="0.5"/>
+  
+  <!-- Elementos de habilidades -->
+  <rect x="340" y="450" width="120" height="80" rx="10" fill="white" stroke="#6C63FF" stroke-width="2"/>
+  <circle cx="370" cy="480" r="10" fill="#6C63FF" fill-opacity="0.2"/>
+  <circle cx="400" cy="480" r="10" fill="#6C63FF" fill-opacity="0.5"/>
+  <circle cx="430" cy="480" r="10" fill="#6C63FF" fill-opacity="0.8"/>
+  <path d="M360 500 L440 500 L440 505 L360 505 L360 500Z" fill="#6C63FF" fill-opacity="0.5"/>
+  <path d="M360 510 L420 510 L420 515 L360 515 L360 510Z" fill="#6C63FF" fill-opacity="0.5"/>
+  <path d="M360 520 L400 520 L400 525 L360 525 L360 520Z" fill="#6C63FF" fill-opacity="0.5"/>
+  
+  <!-- Líneas conectoras -->
+  <path d="M400 300 L400 400" stroke="#6C63FF" stroke-width="2" stroke-dasharray="5 5"/>
+  <path d="M400 400 L210 450" stroke="#6C63FF" stroke-width="2" stroke-dasharray="5 5"/>
+  <path d="M400 400 L400 450" stroke="#6C63FF" stroke-width="2" stroke-dasharray="5 5"/>
+  <path d="M400 400 L590 450" stroke="#6C63FF" stroke-width="2" stroke-dasharray="5 5"/>
+</svg>

@@ -1,0 +1,45 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo -->
+  <rect width="800" height="600" fill="#F3F4F6"/>
+  
+  <!-- Navegación -->
+  <rect y="0" width="800" height="60" fill="#6C63FF"/>
+  
+  <!-- Logo -->
+  <circle cx="50" cy="30" r="20" fill="white"/>
+  
+  <!-- Enlaces de navegación -->
+  <rect x="400" y="20" width="60" height="20" rx="5" fill="white" opacity="0.8"/>
+  <rect x="480" y="20" width="60" height="20" rx="5" fill="white" opacity="0.8"/>
+  <rect x="560" y="20" width="60" height="20" rx="5" fill="white" opacity="0.8"/>
+  <rect x="640" y="20" width="60" height="20" rx="5" fill="white" opacity="0.8"/>
+  
+  <!-- Sección Hero -->
+  <rect x="100" y="120" width="300" height="40" rx="5" fill="#333333"/>
+  <rect x="100" y="180" width="400" height="20" rx="5" fill="#666666"/>
+  <rect x="100" y="210" width="350" height="20" rx="5" fill="#666666"/>
+  
+  <!-- Botón CTA -->
+  <rect x="100" y="260" width="150" height="50" rx="25" fill="#6C63FF"/>
+  <rect x="270" y="260" width="150" height="50" rx="25" fill="white" stroke="#6C63FF" stroke-width="2"/>
+  
+  <!-- Imagen Hero -->
+  <circle cx="600" cy="200" r="120" fill="#6C63FF" opacity="0.2"/>
+  <circle cx="600" cy="200" r="80" fill="#6C63FF" opacity="0.4"/>
+  
+  <!-- Sección de características -->
+  <rect x="100" y="380" width="180" height="180" rx="10" fill="white" stroke="#E5E7EB" stroke-width="2"/>
+  <circle cx="190" cy="430" r="30" fill="#6C63FF" opacity="0.2"/>
+  <rect x="130" y="480" width="120" height="15" rx="5" fill="#333333"/>
+  <rect x="150" y="505" width="80" height="10" rx="5" fill="#666666"/>
+  
+  <rect x="310" y="380" width="180" height="180" rx="10" fill="white" stroke="#E5E7EB" stroke-width="2"/>
+  <circle cx="400" cy="430" r="30" fill="#6C63FF" opacity="0.2"/>
+  <rect x="340" y="480" width="120" height="15" rx="5" fill="#333333"/>
+  <rect x="360" y="505" width="80" height="10" rx="5" fill="#666666"/>
+  
+  <rect x="520" y="380" width="180" height="180" rx="10" fill="white" stroke="#E5E7EB" stroke-width="2"/>
+  <circle cx="610" cy="430" r="30" fill="#6C63FF" opacity="0.2"/>
+  <rect x="550" y="480" width="120" height="15" rx="5" fill="#333333"/>
+  <rect x="570" y="505" width="80" height="10" rx="5" fill="#666666"/>
+</svg>

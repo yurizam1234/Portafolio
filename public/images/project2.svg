@@ -1,0 +1,45 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo -->
+  <rect width="800" height="600" fill="#F8FAFC"/>
+  
+  <!-- Dispositivo móvil -->
+  <rect x="250" y="50" width="300" height="500" rx="30" fill="white" stroke="#E2E8F0" stroke-width="2"/>
+  <rect x="250" y="50" width="300" height="500" rx="30" fill="#6C63FF" fill-opacity="0.03"/>
+  
+  <!-- Pantalla -->
+  <rect x="270" y="80" width="260" height="440" rx="15" fill="white" stroke="#E2E8F0" stroke-width="1"/>
+  
+  <!-- Barra de estado -->
+  <rect x="270" y="80" width="260" height="40" rx="15" fill="#6C63FF" fill-opacity="0.1"/>
+  <circle cx="290" cy="100" r="5" fill="#6C63FF"/>
+  <rect x="305" y="97" width="30" height="6" rx="3" fill="#6C63FF"/>
+  <circle cx="510" cy="100" r="5" fill="#6C63FF"/>
+  <rect x="470" y="97" width="30" height="6" rx="3" fill="#6C63FF"/>
+  
+  <!-- Contenido de la app -->
+  <!-- Encabezado -->
+  <rect x="290" y="140" width="100" height="20" rx="5" fill="#334155"/>
+  
+  <!-- Imagen principal -->
+  <rect x="290" y="180" width="220" height="120" rx="10" fill="#6C63FF" fill-opacity="0.2"/>
+  <circle cx="400" cy="240" r="30" fill="#6C63FF" fill-opacity="0.4"/>
+  
+  <!-- Elementos de lista -->
+  <rect x="290" y="320" width="220" height="50" rx="8" fill="white" stroke="#E2E8F0" stroke-width="1"/>
+  <rect x="310" y="335" width="80" height="10" rx="5" fill="#334155"/>
+  <rect x="310" y="350" width="50" height="6" rx="3" fill="#64748B"/>
+  <circle cx="490" cy="345" r="15" fill="#6C63FF" fill-opacity="0.2"/>
+  
+  <rect x="290" y="380" width="220" height="50" rx="8" fill="white" stroke="#E2E8F0" stroke-width="1"/>
+  <rect x="310" y="395" width="80" height="10" rx="5" fill="#334155"/>
+  <rect x="310" y="410" width="50" height="6" rx="3" fill="#64748B"/>
+  <circle cx="490" cy="405" r="15" fill="#6C63FF" fill-opacity="0.2"/>
+  
+  <rect x="290" y="440" width="220" height="50" rx="8" fill="white" stroke="#E2E8F0" stroke-width="1"/>
+  <rect x="310" y="455" width="80" height="10" rx="5" fill="#334155"/>
+  <rect x="310" y="470" width="50" height="6" rx="3" fill="#64748B"/>
+  <circle cx="490" cy="465" r="15" fill="#6C63FF" fill-opacity="0.2"/>
+  
+  <!-- Botón home -->
+  <circle cx="400" cy="540" r="15" fill="#E2E8F0"/>
+</svg>

@@ -1,0 +1,87 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo -->
+  <rect width="800" height="600" fill="#F9FAFB"/>
+  
+  <!-- Círculo central -->
+  <circle cx="400" cy="300" r="200" fill="#6C63FF" fill-opacity="0.05" stroke="#6C63FF" stroke-width="2" stroke-dasharray="5 5"/>
+  <circle cx="400" cy="300" r="150" fill="#6C63FF" fill-opacity="0.1" stroke="#6C63FF" stroke-width="2" stroke-dasharray="5 5"/>
+  <circle cx="400" cy="300" r="100" fill="#6C63FF" fill-opacity="0.15" stroke="#6C63FF" stroke-width="2" stroke-dasharray="5 5"/>
+  <circle cx="400" cy="300" r="50" fill="#6C63FF" fill-opacity="0.2" stroke="#6C63FF" stroke-width="2"/>
+  
+  <!-- Líneas radiales -->
+  <line x1="400" y1="100" x2="400" y2="500" stroke="#E5E7EB" stroke-width="1"/>
+  <line x1="200" y1="300" x2="600" y2="300" stroke="#E5E7EB" stroke-width="1"/>
+  <line x1="258.579" y1="158.579" x2="541.421" y2="441.421" stroke="#E5E7EB" stroke-width="1"/>
+  <line x1="258.579" y1="441.421" x2="541.421" y2="158.579" stroke="#E5E7EB" stroke-width="1"/>
+  
+  <!-- Iconos de habilidades -->
+  <!-- HTML -->
+  <g transform="translate(380, 150)">
+    <rect x="-30" y="-30" width="60" height="60" rx="10" fill="white" stroke="#E5E7EB" stroke-width="2"/>
+    <path d="M0 -15 L-15 15 L0 10 L15 15 L0 -15Z" fill="#E34F26"/>
+    <path d="M0 -15 L0 10 L15 15 L0 -15Z" fill="#F06529"/>
+    <path d="M-5 0 L5 0 L4 5 L-4 5 L-5 0Z" fill="white"/>
+  </g>
+  
+  <!-- CSS -->
+  <g transform="translate(500, 220)">
+    <rect x="-30" y="-30" width="60" height="60" rx="10" fill="white" stroke="#E5E7EB" stroke-width="2"/>
+    <path d="M0 -15 L-15 15 L0 10 L15 15 L0 -15Z" fill="#264DE4"/>
+    <path d="M0 -15 L0 10 L15 15 L0 -15Z" fill="#2965F1"/>
+    <path d="M-5 0 L5 0 L4 5 L-4 5 L-5 0Z" fill="white"/>
+  </g>
+  
+  <!-- JavaScript -->
+  <g transform="translate(530, 350)">
+    <rect x="-30" y="-30" width="60" height="60" rx="10" fill="white" stroke="#E5E7EB" stroke-width="2"/>
+    <rect x="-15" y="-15" width="30" height="30" fill="#F7DF1E"/>
+    <path d="M-5 5 L-5 -5 L5 -5 L5 5 L-5 5Z" fill="#F7DF1E" stroke="#333" stroke-width="1"/>
+  </g>
+  
+  <!-- React -->
+  <g transform="translate(450, 450)">
+    <rect x="-30" y="-30" width="60" height="60" rx="10" fill="white" stroke="#E5E7EB" stroke-width="2"/>
+    <circle cx="0" cy="0" r="8" fill="#61DAFB"/>
+    <ellipse cx="0" cy="0" rx="15" ry="5" stroke="#61DAFB" stroke-width="2" transform="rotate(60)"/>
+    <ellipse cx="0" cy="0" rx="15" ry="5" stroke="#61DAFB" stroke-width="2" transform="rotate(-60)"/>
+    <ellipse cx="0" cy="0" rx="15" ry="5" stroke="#61DAFB" stroke-width="2" transform="rotate(180)"/>
+  </g>
+  
+  <!-- Node.js -->
+  <g transform="translate(300, 450)">
+    <rect x="-30" y="-30" width="60" height="60" rx="10" fill="white" stroke="#E5E7EB" stroke-width="2"/>
+    <path d="M0 -15 C-10 -15 -15 -10 -15 0 C-15 10 -10 15 0 15 C10 15 15 10 15 0 C15 -10 10 -15 0 -15Z" fill="#339933"/>
+    <path d="M-5 0 L5 0 L0 10 L-5 0Z" fill="white"/>
+  </g>
+  
+  <!-- Git -->
+  <g transform="translate(220, 350)">
+    <rect x="-30" y="-30" width="60" height="60" rx="10" fill="white" stroke="#E5E7EB" stroke-width="2"/>
+    <path d="M0 -10 L10 0 L0 10 L-10 0 Z" fill="#F05032"/>
+    <circle cx="0" cy="-10" r="3" fill="white"/>
+    <circle cx="10" cy="0" r="3" fill="white"/>
+    <circle cx="0" cy="10" r="3" fill="white"/>
+    <circle cx="-10" cy="0" r="3" fill="white"/>
+  </g>
+  
+  <!-- Python -->
+  <g transform="translate(270, 220)">
+    <rect x="-30" y="-30" width="60" height="60" rx="10" fill="white" stroke="#E5E7EB" stroke-width="2"/>
+    <path d="M-10 -5 C-10 -10 -5 -10 0 -10 C5 -10 10 -10 10 -5 L10 5 C10 10 5 10 0 10 C-5 10 -10 10 -10 5 L-10 -5Z" fill="#3776AB"/>
+    <circle cx="-5" cy="-5" r="2" fill="white"/>
+    <path d="M-5 0 L5 0" stroke="white" stroke-width="1"/>
+  </g>
+  
+  <!-- Figma -->
+  <g transform="translate(400, 400)">
+    <rect x="-30" y="-30" width="60" height="60" rx="10" fill="white" stroke="#E5E7EB" stroke-width="2"/>
+    <circle cx="-5" cy="-5" r="5" fill="#F24E1E"/>
+    <circle cx="5" cy="-5" r="5" fill="#FF7262"/>
+    <circle cx="-5" cy="5" r="5" fill="#A259FF"/>
+    <circle cx="5" cy="5" r="5" fill="#1ABCFE"/>
+  </g>
+  
+  <!-- Centro -->
+  <circle cx="400" cy="300" r="30" fill="white" stroke="#6C63FF" stroke-width="2"/>
+  <text x="400" y="305" font-family="Arial" font-size="12" text-anchor="middle" fill="#6C63FF">SKILLS</text>
+</svg>
